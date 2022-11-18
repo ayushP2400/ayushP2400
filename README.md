@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushp2400&show_icons=true&locale=en" alt="ayushp2400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushp2400&" alt="ayushp2400" /></p>
-<br>
+
 [![@pathakayush's Holopin board](https://holopin.me/pathakayush)](https://holopin.io/@pathakayush)
 
